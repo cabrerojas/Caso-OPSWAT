@@ -1,6 +1,6 @@
 # 
- Backend con nodejs y express para manejar lista de amenazas recopildadas de API externa.
- Dentro de lo solicitado estaba utilizar un Logger, concepto que no manejana ni habia utilizado, luego de investigar en internet encontre la libreria de `winston` la cual estudie he implemente en el proyecto.
+ Backend con nodejs y express para manejar lista de amenazas recopiladas de API externa.
+ Dentro de lo solicitado estaba utilizar un Logger, concepto que no manejaba ni habia utilizado, luego de investigar en internet encontre la libreria de `winston` la cual estudie he implemente en el proyecto.
 
 ## Intalaciones previas
 
